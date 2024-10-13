@@ -36,11 +36,16 @@
 
 ### 🎬 Latest  Blogs posts ~
 
-<!-- BLOG-POST-LIST:START -->
-- [Run PHP MySQL Projects on Linux](https://dev.to/mdmarufsarker/run-php-mysql-projects-on-linux-31nc)
-- [Project Ideas Don’t Have to Be Unique: Here’s Why](https://dev.to/mdmarufsarker/project-ideas-dont-have-to-be-unique-heres-why-4fkk)
-- [পর্দার আড়ালে কী চলে? অপারেটিং সিস্টেমের রহস্য উন্মোচন](https://dev.to/mdmarufsarker/prdaar-aaddaale-kii-cle-apaarettin-sisttemer-rhsy-unmocn-203o)
-- [Compiled Language vs Interpreted Language](https://dev.to/mdmarufsarker/compiled-language-vs-interpreted-language-2o4c)
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ZRvShcHbwAk"><img width="140px" src="http://img.youtube.com/vi/ZRvShcHbwAk/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ZRvShcHbwAk">Max and Min | Data type - Conditions | Assiut University Training | Programming for Career</a><br/>Oct 10, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=c_MSC7XDAuM"><img width="140px" src="http://img.youtube.com/vi/c_MSC7XDAuM/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=c_MSC7XDAuM">Multiples | Data type - Conditions | Assiut University Training - Newcomers – Programming for Career</a><br/>Oct 10, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=OTTWyK7M0mw"><img width="140px" src="http://img.youtube.com/vi/OTTWyK7M0mw/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=OTTWyK7M0mw">Welcome for You with Conditions | Data type - Conditions | Assiut University Training - Newcomers</a><br/>Oct 10, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=wy7DAa2ZksE"><img width="140px" src="http://img.youtube.com/vi/wy7DAa2ZksE/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=wy7DAa2ZksE">Two Numbers | Data type - Conditions | Assiut University Training - Newcomers Programming for Career</a><br/>Oct 10, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=DS-aT_k3sVw"><img width="140px" src="http://img.youtube.com/vi/DS-aT_k3sVw/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=DS-aT_k3sVw">Summation from 1 to N | Data type - Conditions | Assiut University Training – Programming for Career</a><br/>Oct 10, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 
