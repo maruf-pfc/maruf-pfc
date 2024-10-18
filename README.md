@@ -39,16 +39,16 @@
 
 ### 🎬 Latest YouTube Videos ~
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ZRvShcHbwAk"><img width="140px" src="http://img.youtube.com/vi/ZRvShcHbwAk/maxresdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Z0L3O5sVTIk"><img width="140px" src="http://img.youtube.com/vi/Z0L3O5sVTIk/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Z0L3O5sVTIk">B. Binomial Coefficients, Kind Of | Educational Codeforces Round 170 | Programming for Career</a><br/>Oct 17, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=8E_to2St-Fg"><img width="140px" src="http://img.youtube.com/vi/8E_to2St-Fg/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=8E_to2St-Fg">A. Two Screens | Educational Codeforces Round 170 &lpar;Rated for Div. 2&rpar; | Programming for Career</a><br/>Oct 17, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ZRvShcHbwAk"><img width="140px" src="http://img.youtube.com/vi/ZRvShcHbwAk/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZRvShcHbwAk">Max and Min | Data type - Conditions | Assiut University Training | Programming for Career</a><br/>Oct 10, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=c_MSC7XDAuM"><img width="140px" src="http://img.youtube.com/vi/c_MSC7XDAuM/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=c_MSC7XDAuM">Multiples | Data type - Conditions | Assiut University Training - Newcomers – Programming for Career</a><br/>Oct 10, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=OTTWyK7M0mw"><img width="140px" src="http://img.youtube.com/vi/OTTWyK7M0mw/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OTTWyK7M0mw">Welcome for You with Conditions | Data type - Conditions | Assiut University Training - Newcomers</a><br/>Oct 10, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=wy7DAa2ZksE"><img width="140px" src="http://img.youtube.com/vi/wy7DAa2ZksE/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=wy7DAa2ZksE">Two Numbers | Data type - Conditions | Assiut University Training - Newcomers Programming for Career</a><br/>Oct 10, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=DS-aT_k3sVw"><img width="140px" src="http://img.youtube.com/vi/DS-aT_k3sVw/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=DS-aT_k3sVw">Summation from 1 to N | Data type - Conditions | Assiut University Training – Programming for Career</a><br/>Oct 10, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <!-- # Competitive Programming : -->
