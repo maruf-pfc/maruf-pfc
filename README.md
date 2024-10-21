@@ -39,16 +39,16 @@
 
 ### 🎬 Latest YouTube Videos ~
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=i7K4w3kmnkc"><img width="140px" src="http://img.youtube.com/vi/i7K4w3kmnkc/maxresdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=h9hjFBludms"><img width="140px" src="http://img.youtube.com/vi/h9hjFBludms/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=h9hjFBludms">A. Profitable Interest Rate | Codeforces Round 980 &lpar;Div. 2&rpar; | Programming for Career</a><br/>Oct 20, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=9RtdWtiZVdA"><img width="140px" src="http://img.youtube.com/vi/9RtdWtiZVdA/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=9RtdWtiZVdA">The Brothers | Data type - Conditions | Assiut University Training | Programming for Career</a><br/>Oct 20, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=i7K4w3kmnkc"><img width="140px" src="http://img.youtube.com/vi/i7K4w3kmnkc/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=i7K4w3kmnkc">A  Robin Helps | Codeforces Round 974 &lpar;Div. 3&rpar; | Programming for Career</a><br/>Oct 19, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Jsow3UkejxQ"><img width="140px" src="http://img.youtube.com/vi/Jsow3UkejxQ/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Jsow3UkejxQ">Age in Days | Data type - Conditions | Assiut University Training | Programming for Career</a><br/>Oct 19, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=QVKRjx2b128"><img width="140px" src="http://img.youtube.com/vi/QVKRjx2b128/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QVKRjx2b128">Coordinates of a Point | Data type-Conditions | Assiut University Training | Programming for Career</a><br/>Oct 19, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=z6a6eCrGRDQ"><img width="140px" src="http://img.youtube.com/vi/z6a6eCrGRDQ/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=z6a6eCrGRDQ">First digit ! | Data type - Conditions | Assiut University Training | Programming for Career</a><br/>Oct 19, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=_-7jt0aFuu4"><img width="140px" src="http://img.youtube.com/vi/_-7jt0aFuu4/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_-7jt0aFuu4">Calculator | Data type - Conditions | Assiut University Training | Programming for Career</a><br/>Oct 19, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <!-- # Competitive Programming : -->
