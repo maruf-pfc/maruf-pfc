@@ -39,16 +39,16 @@
 
 ### 🎬 Latest YouTube Videos ~
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=h9hjFBludms"><img width="140px" src="http://img.youtube.com/vi/h9hjFBludms/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=h9hjFBludms">A. Profitable Interest Rate | Codeforces Round 980 &lpar;Div. 2&rpar; | Programming for Career</a><br/>Oct 20, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=9RtdWtiZVdA"><img width="140px" src="http://img.youtube.com/vi/9RtdWtiZVdA/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=9RtdWtiZVdA">The Brothers | Data type - Conditions | Assiut University Training | Programming for Career</a><br/>Oct 20, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=i7K4w3kmnkc"><img width="140px" src="http://img.youtube.com/vi/i7K4w3kmnkc/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=i7K4w3kmnkc">A  Robin Helps | Codeforces Round 974 &lpar;Div. 3&rpar; | Programming for Career</a><br/>Oct 19, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Jsow3UkejxQ"><img width="140px" src="http://img.youtube.com/vi/Jsow3UkejxQ/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Jsow3UkejxQ">Age in Days | Data type - Conditions | Assiut University Training | Programming for Career</a><br/>Oct 19, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=QVKRjx2b128"><img width="140px" src="http://img.youtube.com/vi/QVKRjx2b128/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=QVKRjx2b128">Coordinates of a Point | Data type-Conditions | Assiut University Training | Programming for Career</a><br/>Oct 19, 2024</td></tr></table>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=obCvV1cOmEQ"><img width="140px" src="http://img.youtube.com/vi/obCvV1cOmEQ/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=obCvV1cOmEQ">One Prime - Sheet #2 &lpar;Loops&rpar; | Assiut University Training - Newcomers | Programming for Career</a><br/>Oct 21, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=x2543RbJhVM"><img width="140px" src="http://img.youtube.com/vi/x2543RbJhVM/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=x2543RbJhVM">Multiplication table - Sheet #2 &lpar;Loops&rpar; | Assiut University Training |  Programming for Career</a><br/>Oct 21, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=rJBqNDrkGn8"><img width="140px" src="http://img.youtube.com/vi/rJBqNDrkGn8/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=rJBqNDrkGn8">Max - Sheet #2 &lpar;Loops&rpar; | Assiut University Training - Newcomers | Programming for Career</a><br/>Oct 21, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=6xk1Kq0Uhmc"><img width="140px" src="http://img.youtube.com/vi/6xk1Kq0Uhmc/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=6xk1Kq0Uhmc">Fixed Password - Sheet #2 &lpar;Loops&rpar; | Assiut University Training - Newcomers</a><br/>Oct 21, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=94ZYj74v30M"><img width="140px" src="http://img.youtube.com/vi/94ZYj74v30M/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=94ZYj74v30M">Factorial - Sheet #2 &lpar;Loops&rpar; | Assiut University Training - Newcomers | Programming for Career</a><br/>Oct 21, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <!-- # Competitive Programming : -->
