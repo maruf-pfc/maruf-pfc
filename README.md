@@ -39,7 +39,9 @@
 
 ### 🎬 Latest YouTube Videos ~
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=obCvV1cOmEQ"><img width="140px" src="http://img.youtube.com/vi/obCvV1cOmEQ/maxresdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=HsXD4Rsvlyo"><img width="140px" src="http://img.youtube.com/vi/HsXD4Rsvlyo/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=HsXD4Rsvlyo">Char | Data type - Conditions | Assiut University Training | Programming for Career</a><br/>Oct 22, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=obCvV1cOmEQ"><img width="140px" src="http://img.youtube.com/vi/obCvV1cOmEQ/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=obCvV1cOmEQ">One Prime - Sheet #2 &lpar;Loops&rpar; | Assiut University Training - Newcomers | Programming for Career</a><br/>Oct 21, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=x2543RbJhVM"><img width="140px" src="http://img.youtube.com/vi/x2543RbJhVM/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=x2543RbJhVM">Multiplication table - Sheet #2 &lpar;Loops&rpar; | Assiut University Training |  Programming for Career</a><br/>Oct 21, 2024</td></tr></table>
@@ -47,8 +49,6 @@
 <td><a href="https://www.youtube.com/watch?v=rJBqNDrkGn8">Max - Sheet #2 &lpar;Loops&rpar; | Assiut University Training - Newcomers | Programming for Career</a><br/>Oct 21, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=6xk1Kq0Uhmc"><img width="140px" src="http://img.youtube.com/vi/6xk1Kq0Uhmc/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=6xk1Kq0Uhmc">Fixed Password - Sheet #2 &lpar;Loops&rpar; | Assiut University Training - Newcomers</a><br/>Oct 21, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=94ZYj74v30M"><img width="140px" src="http://img.youtube.com/vi/94ZYj74v30M/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=94ZYj74v30M">Factorial - Sheet #2 &lpar;Loops&rpar; | Assiut University Training - Newcomers | Programming for Career</a><br/>Oct 21, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <!-- # Competitive Programming : -->
