@@ -39,7 +39,9 @@
 
 ### 🎬 Latest YouTube Videos ~
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=R7Zk6SwXw8c"><img width="140px" src="http://img.youtube.com/vi/R7Zk6SwXw8c/maxresdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=QVKRjx2b128"><img width="140px" src="http://img.youtube.com/vi/QVKRjx2b128/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=QVKRjx2b128">Coordinates of a Point | Data type-Conditions | Assiut University Training | Programming for Career</a><br/>Oct 25, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=R7Zk6SwXw8c"><img width="140px" src="http://img.youtube.com/vi/R7Zk6SwXw8c/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=R7Zk6SwXw8c">A. Sakurako and Kosuke | Codeforces Round 981 &lpar;Div. 3&rpar; | Programming for Career</a><br/>Oct 24, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=z6a6eCrGRDQ"><img width="140px" src="http://img.youtube.com/vi/z6a6eCrGRDQ/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=z6a6eCrGRDQ">First digit ! | Data type - Conditions | Assiut University Training | Programming for Career</a><br/>Oct 24, 2024</td></tr></table>
@@ -47,8 +49,6 @@
 <td><a href="https://www.youtube.com/watch?v=_-7jt0aFuu4">Calculator | Data type - Conditions | Assiut University Training | Programming for Career</a><br/>Oct 23, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=HsXD4Rsvlyo"><img width="140px" src="http://img.youtube.com/vi/HsXD4Rsvlyo/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=HsXD4Rsvlyo">Char | Data type - Conditions | Assiut University Training | Programming for Career</a><br/>Oct 22, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=obCvV1cOmEQ"><img width="140px" src="http://img.youtube.com/vi/obCvV1cOmEQ/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=obCvV1cOmEQ">One Prime - Sheet #2 &lpar;Loops&rpar; | Assiut University Training - Newcomers | Programming for Career</a><br/>Oct 21, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <!-- # Competitive Programming : -->
