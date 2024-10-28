@@ -39,7 +39,9 @@
 
 ### 🎬 Latest YouTube Videos ~
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Jsow3UkejxQ"><img width="140px" src="http://img.youtube.com/vi/Jsow3UkejxQ/maxresdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=yecFLekkCtc"><img width="140px" src="http://img.youtube.com/vi/yecFLekkCtc/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=yecFLekkCtc">1 to N - Sheet #2 &lpar;Loops&rpar; | Assiut University Training - Newcomers | Programming for Career</a><br/>Oct 27, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Jsow3UkejxQ"><img width="140px" src="http://img.youtube.com/vi/Jsow3UkejxQ/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Jsow3UkejxQ">Age in Days | Data type - Conditions | Assiut University Training | Programming for Career</a><br/>Oct 26, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=QVKRjx2b128"><img width="140px" src="http://img.youtube.com/vi/QVKRjx2b128/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QVKRjx2b128">Coordinates of a Point | Data type-Conditions | Assiut University Training | Programming for Career</a><br/>Oct 25, 2024</td></tr></table>
@@ -47,8 +49,6 @@
 <td><a href="https://www.youtube.com/watch?v=R7Zk6SwXw8c">A. Sakurako and Kosuke | Codeforces Round 981 &lpar;Div. 3&rpar; | Programming for Career</a><br/>Oct 24, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=z6a6eCrGRDQ"><img width="140px" src="http://img.youtube.com/vi/z6a6eCrGRDQ/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=z6a6eCrGRDQ">First digit ! | Data type - Conditions | Assiut University Training | Programming for Career</a><br/>Oct 24, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=_-7jt0aFuu4"><img width="140px" src="http://img.youtube.com/vi/_-7jt0aFuu4/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_-7jt0aFuu4">Calculator | Data type - Conditions | Assiut University Training | Programming for Career</a><br/>Oct 23, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <!-- # Competitive Programming : -->
