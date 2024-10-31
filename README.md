@@ -39,7 +39,9 @@
 
 ### 🎬 Latest YouTube Videos ~
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3GawFDdjNTo"><img width="140px" src="http://img.youtube.com/vi/3GawFDdjNTo/maxresdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=6xk1Kq0Uhmc"><img width="140px" src="http://img.youtube.com/vi/6xk1Kq0Uhmc/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=6xk1Kq0Uhmc">Fixed Password - Sheet #2 &lpar;Loops&rpar; | Assiut University Training - Newcomers</a><br/>Oct 30, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=3GawFDdjNTo"><img width="140px" src="http://img.youtube.com/vi/3GawFDdjNTo/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3GawFDdjNTo">Critical Path Method &lpar;CPM&rpar; &amp; Program Evaluation and Review Technique &lpar;PERT&rpar; Including Math Problems</a><br/>Oct 29, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=l_gwceN06IY"><img width="140px" src="http://img.youtube.com/vi/l_gwceN06IY/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=l_gwceN06IY">Even, Odd, Positive and Negative - Sheet #2 &lpar;Loops&rpar; | Assiut University Training - Newcomers</a><br/>Oct 29, 2024</td></tr></table>
@@ -47,8 +49,6 @@
 <td><a href="https://www.youtube.com/watch?v=zwGNevy2-pw">Even Numbers - Sheet #2 &lpar;Loops&rpar; | Assiut University Training - Newcomers | Programming for Career</a><br/>Oct 28, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=yecFLekkCtc"><img width="140px" src="http://img.youtube.com/vi/yecFLekkCtc/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yecFLekkCtc">1 to N - Sheet #2 &lpar;Loops&rpar; | Assiut University Training - Newcomers | Programming for Career</a><br/>Oct 27, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Jsow3UkejxQ"><img width="140px" src="http://img.youtube.com/vi/Jsow3UkejxQ/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Jsow3UkejxQ">Age in Days | Data type - Conditions | Assiut University Training | Programming for Career</a><br/>Oct 26, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <!-- # Competitive Programming : -->
