@@ -11,6 +11,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maruf-pfc&theme=github_dark" width="100%">
 </div>
 
+[![An image of @marufpfc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/marufpfc)](https://holopin.io/@marufpfc)
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;Problem+Solver;Content+Creator;Always%20learning%20new%20things;Evolving&center=true&width=500&height=50"></a>
 </p>
