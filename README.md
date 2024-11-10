@@ -41,7 +41,9 @@
 
 ### 🎬 Latest YouTube Videos ~
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=obCvV1cOmEQ"><img width="140px" src="http://img.youtube.com/vi/obCvV1cOmEQ/maxresdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=QsDSLqU0o44"><img width="140px" src="http://img.youtube.com/vi/QsDSLqU0o44/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=QsDSLqU0o44">Green Garden Web Application using PHP, MySQL, HTML, CSS, JavaScript, PHP Mailer</a><br/>Nov 9, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=obCvV1cOmEQ"><img width="140px" src="http://img.youtube.com/vi/obCvV1cOmEQ/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=obCvV1cOmEQ">One Prime - Sheet #2 &lpar;Loops&rpar; | Assiut University Training - Newcomers | Programming for Career</a><br/>Nov 3, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=eN0tT0G2S68"><img width="140px" src="http://img.youtube.com/vi/eN0tT0G2S68/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=eN0tT0G2S68">A. Quintomania | Codeforces Round 984 &lpar;Div. 3&rpar; | Programming for Career</a><br/>Nov 2, 2024</td></tr></table>
@@ -49,8 +51,6 @@
 <td><a href="https://www.youtube.com/watch?v=94ZYj74v30M">Factorial - Sheet #2 &lpar;Loops&rpar; | Assiut University Training - Newcomers | Programming for Career</a><br/>Nov 2, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=x2543RbJhVM"><img width="140px" src="http://img.youtube.com/vi/x2543RbJhVM/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=x2543RbJhVM">Multiplication table - Sheet #2 &lpar;Loops&rpar; | Assiut University Training |  Programming for Career</a><br/>Nov 1, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=rJBqNDrkGn8"><img width="140px" src="http://img.youtube.com/vi/rJBqNDrkGn8/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=rJBqNDrkGn8">Max - Sheet #2 &lpar;Loops&rpar; | Assiut University Training - Newcomers | Programming for Career</a><br/>Oct 31, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <!-- # Competitive Programming : -->
