@@ -41,7 +41,9 @@
 
 ### 🎬 Latest YouTube Videos ~
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hZa8zUAsMUs"><img width="140px" src="http://img.youtube.com/vi/hZa8zUAsMUs/maxresdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5EDq6CbMcto"><img width="140px" src="http://img.youtube.com/vi/5EDq6CbMcto/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=5EDq6CbMcto">Baseus Stylus Pen Unboxing &amp; First Look | Budget-Friendly iPad Pencil Alternative</a><br/>Dec 25, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=hZa8zUAsMUs"><img width="140px" src="http://img.youtube.com/vi/hZa8zUAsMUs/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hZa8zUAsMUs">GitHub Unwrapped 2024</a><br/>Dec 19, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=pEs389AkZnI"><img width="140px" src="http://img.youtube.com/vi/pEs389AkZnI/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pEs389AkZnI">Building Web Apps: The Difference Between Using Remix and Without It</a><br/>Dec 1, 2024</td></tr></table>
@@ -49,8 +51,6 @@
 <td><a href="https://www.youtube.com/watch?v=sT0E_NUGA_A">QuickGen: The Ultimate Project Scaffolding Tool for Developers | Boost Your Workflow!</a><br/>Nov 19, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=lgMttDp-5XM"><img width="140px" src="http://img.youtube.com/vi/lgMttDp-5XM/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lgMttDp-5XM">Crypto Message Converter Web Application using Nextjs, Tailwindcss, Lucide React</a><br/>Nov 11, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=QsDSLqU0o44"><img width="140px" src="http://img.youtube.com/vi/QsDSLqU0o44/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=QsDSLqU0o44">Green Garden Web Application using PHP, MySQL, HTML, CSS, JavaScript, PHP Mailer</a><br/>Nov 9, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <!-- # Competitive Programming : -->
