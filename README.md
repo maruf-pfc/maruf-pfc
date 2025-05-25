@@ -2,17 +2,6 @@
   <img src="./logo/maruf.svg" alt="Md. Maruf Sarker" />
 </h1>
 
-<div align="center" >
-  <div>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maruf-pfc&layout=compact&langs_count=10&theme=algolia" width="33%"/>
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maruf-pfc&layout=compact&langs_count=10&theme=algolia" width="33%"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maruf-pfc&layout=compact&langs_count=10&theme=algolia" width="33%"/>
-  </div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maruf-pfc&theme=github_dark" width="100%">
-</div>
-
-[![An image of @marufpfc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/marufpfc)](https://holopin.io/@marufpfc)
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;Problem+Solver;Content+Creator;Always%20learning%20new%20things;Evolving&center=true&width=500&height=50"></a>
 </p>
@@ -52,6 +41,21 @@
 <table><tr><td><a href="https://www.youtube.com/watch?v=pEs389AkZnI"><img width="140px" src="http://img.youtube.com/vi/pEs389AkZnI/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pEs389AkZnI">Building Web Apps: The Difference Between Using Remix and Without It</a><br/>Dec 1, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
+
+<div align="center" >
+<!--   <div>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maruf-pfc&layout=compact&langs_count=10&theme=algolia" width="33%"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maruf-pfc&layout=compact&langs_count=10&theme=algolia" width="33%"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maruf-pfc&layout=compact&langs_count=10&theme=algolia" width="33%"/>
+  </div> -->
+  <p align="center">
+    <a href="https://wakatime.com/@marufsarker"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=marufsarker&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time" width="58%"/></a>
+    <a href="https://github.com/maruf-pfc?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=maruf-pfc&theme=onestar&no-frame=true&column=3&row=2"  width="38%"/></a>
+  </p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maruf-pfc&theme=github_dark" width="100%">
+</div>
+
+[![An image of @marufpfc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/marufpfc)](https://holopin.io/@marufpfc)
 
 <!-- # Competitive Programming : -->
 <div align="center">
