@@ -1,22 +1,17 @@
-name: Latest YouTube Videos
+name: GitHub Readme YouTube Cards
 on:
   schedule:
     # Runs every hour, on the hour
-    - cron: "0 0 * * *"
+    - cron: "0 * * * *"
   workflow_dispatch:
-permissions:
-      contents: write
 
 jobs:
-  update-readme-with-youtube:
-    name: Update this repo's README with latest videos from YouTube
+  deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCAne1jQhrjTOJ3s3yuAAtcQ"
-          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
-          date_format: "mmm d, yyyy"
-          template: '<table><tr><td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
-          committer_email: "alwinjohn231@gmail.com"
+          channel_id: UCAne1jQhrjTOJ3s3yuAAtcQ
+          comment_tag_name: YOUTUBE-CARDS
+          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
+          show_duration: true
