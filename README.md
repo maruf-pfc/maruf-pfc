@@ -34,12 +34,12 @@
 <td><a href="https://www.youtube.com/watch?v=IOp4b30nr64">A. False Alarm Solution | Codeforces Round 1029 | #pfc - Programming for Career</a><br/>Jun 8, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=QZsvfSdbLmQ"><img width="140px" src="http://img.youtube.com/vi/QZsvfSdbLmQ/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QZsvfSdbLmQ">Programming for Career #programming #coding #development</a><br/>Mar 5, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=gdI9jELFRcM"><img width="140px" src="http://img.youtube.com/vi/gdI9jELFRcM/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=gdI9jELFRcM">Ipad 10th gen Unboxing and First Impressions | Best tablet for 2025?#ipad #ipad10thgen #unboxing</a><br/>Jan 5, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=5EDq6CbMcto"><img width="140px" src="http://img.youtube.com/vi/5EDq6CbMcto/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=5EDq6CbMcto">Baseus Stylus Pen Unboxing &amp; First Look | Budget-Friendly iPad Pencil Alternative</a><br/>Dec 25, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=hZa8zUAsMUs"><img width="140px" src="http://img.youtube.com/vi/hZa8zUAsMUs/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=hZa8zUAsMUs">GitHub Unwrapped 2024</a><br/>Dec 19, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/gdI9jELFRcM"><img width="140px" src="http://img.youtube.com/vi/gdI9jELFRcM/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/gdI9jELFRcM">Ipad 10th gen Unboxing and First Impressions | Best tablet for 2025?#ipad #ipad10thgen #unboxing</a><br/>Jan 5, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/5EDq6CbMcto"><img width="140px" src="http://img.youtube.com/vi/5EDq6CbMcto/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/5EDq6CbMcto">Baseus Stylus Pen Unboxing &amp; First Look | Budget-Friendly iPad Pencil Alternative</a><br/>Dec 25, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/hZa8zUAsMUs"><img width="140px" src="http://img.youtube.com/vi/hZa8zUAsMUs/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/hZa8zUAsMUs">GitHub Unwrapped 2024</a><br/>Dec 19, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center" >
