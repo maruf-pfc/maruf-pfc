@@ -12,11 +12,16 @@
 
 ## 🎬 My Latest YouTube Videos
 
-<!-- BLOG-POST-LIST:START -->
-- [What&#39;s Really Powering Your Computer? Meet the Daemons](https://dev.to/marufsarker/whats-really-powering-your-computer-meet-the-daemons-6c5)
-- [Docker Buildx: Build Multi-Platform Images Like a Pro](https://dev.to/marufsarker/docker-buildx-build-multi-platform-images-like-a-pro-31hn)
-- [What Can In-Browser JavaScript Do and What Are Its Limitations?](https://dev.to/marufsarker/what-can-in-browser-javascript-do-and-what-are-its-limitations-106l)
-- [Job Interview Preperation As a Programmer](https://dev.to/marufsarker/job-interview-preperation-as-a-programmer-90k)
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=IOp4b30nr64"><img width="140px" src="http://img.youtube.com/vi/IOp4b30nr64/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=IOp4b30nr64">A. False Alarm Solution | Codeforces Round 1029 | #pfc - Programming for Career</a><br/>Jun 8,YYYY</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=QZsvfSdbLmQ"><img width="140px" src="http://img.youtube.com/vi/QZsvfSdbLmQ/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=QZsvfSdbLmQ">Programming for Career #programming #coding #development</a><br/>Mar 5,YYYY</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/gdI9jELFRcM"><img width="140px" src="http://img.youtube.com/vi/gdI9jELFRcM/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/gdI9jELFRcM">Ipad 10th gen Unboxing and First Impressions | Best tablet for 2025?#ipad #ipad10thgen #unboxing</a><br/>Jan 5,YYYY</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/5EDq6CbMcto"><img width="140px" src="http://img.youtube.com/vi/5EDq6CbMcto/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/5EDq6CbMcto">Baseus Stylus Pen Unboxing &amp; First Look | Budget-Friendly iPad Pencil Alternative</a><br/>Dec 25,YYYY</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/hZa8zUAsMUs"><img width="140px" src="http://img.youtube.com/vi/hZa8zUAsMUs/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/hZa8zUAsMUs">GitHub Unwrapped 2024</a><br/>Dec 19,YYYY</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
