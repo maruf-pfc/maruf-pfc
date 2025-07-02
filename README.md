@@ -66,8 +66,6 @@
   </div>
 </div>
 
-## 📚 My Latest Blog Posts
-
 <div align="center">
   <table>
     <tr>
