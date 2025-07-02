@@ -20,19 +20,6 @@
 <td><a href="https://www.youtube.com/shorts/hZa8zUAsMUs">GitHub Unwrapped 2024</a><br/>Dec 19, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
-<div align="center" >
-<!--   <div>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maruf-pfc&layout=compact&langs_count=10&theme=algolia" width="33%"/>
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maruf-pfc&layout=compact&langs_count=10&theme=algolia" width="33%"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maruf-pfc&layout=compact&langs_count=10&theme=algolia" width="33%"/>
-  </div> -->
-  <p align="center">
-    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@marufsarker/1044b713-2f17-4951-9d4a-2af9cf38e6f0.png" width="58%"/></a>
-    <a href="https://app.daily.dev/mdmarufsarker"><img src="https://api.daily.dev/devcards/b6878efd97f14b6a9e21dce17627159f.png?r=82n" width="300" alt="Md. Maruf Sarker's Dev Card"/></a>
-  </p>
-<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maruf-pfc&theme=github_dark" width="100%"> -->
-</div>
-
 [![An image of @marufpfc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/marufpfc)](https://holopin.io/@marufpfc)
 
 <!-- # Competitive Programming : -->
@@ -71,6 +58,13 @@
     </td>
   </tr>
   </table>
+</div>
+
+<div align="center" >
+  <p align="center">
+    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@marufsarker/1044b713-2f17-4951-9d4a-2af9cf38e6f0.png" width="58%"/></a>
+    <a href="https://app.daily.dev/mdmarufsarker"><img src="https://api.daily.dev/devcards/b6878efd97f14b6a9e21dce17627159f.png?r=82n" width="300" alt="Md. Maruf Sarker's Dev Card"/></a>
+  </p>
 </div>
 
 ### 🌐 Connect with me ~
