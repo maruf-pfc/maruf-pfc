@@ -2,8 +2,8 @@ name: Latest YouTube Videos
 
 on:
   schedule:
-    # Runs every day at midnight
-    - cron: "0 0 * * *"
+    # Runs every day at midnight UTC
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 permissions:
@@ -21,7 +21,9 @@ jobs:
         with:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCAne1jQhrjTOJ3s3yuAAtcQ"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
-          date_format: "mmm d, yyyy"
+          date_format: "mmm d,YYYY" 
           template: >
             <table><tr><td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline
           committer_email: "alwinjohn231@gmail.com"
+          # CORRECTED LINE:
+          custom_tag: "YOUTUBE-VIDEOS" # <--- Use 'custom_tag'

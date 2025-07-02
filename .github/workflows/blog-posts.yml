@@ -4,7 +4,7 @@ on:
   schedule:
     # Runs every 24 hours
     - cron: '0 0 * * *'
-  workflow_dispatch: # Allows manual triggering from the Actions tab
+  workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
@@ -12,20 +12,21 @@ jobs:
     runs-on: ubuntu-latest
     
     permissions:
-      contents: write # This is crucial for the bot to write to your README.md
+      contents: write
 
     steps:
       - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          # ONLY THE DEV.TO FEED IS HERE NOW
           feed_list: "https://dev.to/feed/marufsarker"
           max_post_count: "5"
           readme_path: "README.md"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
+          # CORRECTED LINE:
+          custom_tag: "BLOG-POSTS" # <--- Use 'custom_tag'
           # Optional: Filter by categories/tags (useful if you want specific posts)
           # categories: "tech,programming" 
           # Optional: Date format
-          date_format: "DD MMMYYYY"
-          Optional: Use a custom template for each post entry (highly customizable)
-          item_template: "<li><a href='{url}'>{title}</a> - {date}</li>"
+          # date_format: "DD MMMYYYY"
+          # Optional: Use a custom template for each post entry (highly customizable)
+          # item_template: "<li><a href='{url}'>{title}</a> - {date}</li>"
