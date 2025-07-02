@@ -7,7 +7,7 @@ on:
   workflow_dispatch: # Allows manual triggering from the Actions tab
 
 permissions:
-  contents: write # Essential for the bot to write to your README.md
+  contents: write # This is crucial for the bot to write to your README.md
 
 jobs:
   update-readme-with-blog:

@@ -8,13 +8,13 @@
 
 ---
 
-## 🎬 My Latest YouTube Videos
-
----
-
 ## 📚 My Latest Blog Posts
 
----
+## 🎬 My Latest YouTube Videos
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 
 <div align="center">
   <h3>Languages and Tools:</h3>
@@ -98,35 +98,26 @@
 ### 🌐 Connect with me ~
 
 <p align="center">
-
+  
   [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mdmarufsarker)
-
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdmarufsarkerr)
-
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/md_maruf_sarker)
-
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdmarufsarker)
-
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/md_marufsarker)
+  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@maruf_sarker)
+  ![Youtube subscribe](https://img.shields.io:/youtube/channel/subscribers/UCLMsOaJDBSJWvny11DFfebw?style=social)
+  [![](https://visitcount.itsvg.in/api?id=mdmarufsarker&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](YOUR_YOUTUBE_CHANNEL_URL_HERE)
-
-  ![YouTube subscribe](https://img.shields.io:/youtube/channel/subscribers/UCLMsOaJDBSJWvny11DFfebw?style=social)
+  <a href="https://codeforces.com/profile/maruf_sarker"><img alt="Code Forces" src="https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white"><a/>
+  <a href="https://leetcode.com/mdmarufsarker/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+  <a href="https://www.codechef.com/users/mdmarufsarker"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"></a>
+  <a href="https://www.hackerrank.com/mdmarufsarker"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+  <a href="https://www.hackerearth.com/@mdmarufsarker"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"></a>
 </p>
 
-<p align="center">
+<span>👀 Total Views</span>
+<p align="center"> 
+  
+  ![](https://count.getloli.com/get/@maruf-pfc.github.readme)
 
-  <a href="https://codeforces.com/profile/maruf_sarker" target="_blank" rel="noreferrer"><img alt="Code Forces" src="https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white"></a>
-
-  <a href="https://leetcode.com/mdmarufsarker/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
-
-  <a href="https://www.codechef.com/users/mdmarufsarker" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"></a>
-
-  <a href="https://www.hackerrank.com/mdmarufsarker" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-
-  <a href="https://www.hackerearth.com/@mdmarufsarker" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"></a>
-</p>
-
-<p align="center">
-  <span>👀 Total Views</span><br/> <img src="https://count.getloli.com/get/@maruf-pfc.github.readme" alt="Profile views count"/>
 </p>
