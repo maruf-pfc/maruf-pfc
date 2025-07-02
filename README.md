@@ -6,8 +6,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Enthusiast;Competitive+Programmer;Developer+and+CP+Community+Manager;Content+Creator+for+Tech+Learners;&center=true&width=500&height=50"></a>
 </p>
 
----
-
 ## 🎬 My Latest YouTube Videos
 
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=IOp4b30nr64"><img width="140px" src="http://img.youtube.com/vi/IOp4b30nr64/maxresdefault.jpg"></a></td>
