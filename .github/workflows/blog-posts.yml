@@ -23,6 +23,9 @@ jobs:
           max_post_count: "5" # How many latest posts to display
           readme_path: "README.md" # The README file to update
           gh_token: ${{ secrets.GITHUB_TOKEN }} # The special GitHub token (automatically provided)
-          custom_tag: "BLOG-POSTS" # Unique tag for this section in README.md
+          # Optional: Filter by categories/tags (useful if you want specific posts)
+          # categories: "tech,programming" 
           date_format: "DD MMMYYYY" # Date format for output
-          item_template: "<li><a href='{url}'>{title}</a> - {date}</li>" # Custom template for each post
+          # Custom template for each post entry (highly customizable)
+          item_template: "<li><a href='{url}'>{title}</a> - {date}</li>"
+          custom_tag: "BLOG-POSTS" # This is important for unique placeholders in README.md
