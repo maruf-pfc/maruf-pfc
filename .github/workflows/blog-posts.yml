@@ -1,0 +1,30 @@
+name: Latest Blog Posts
+
+on:
+  schedule:
+    # Runs every 24 hours
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual triggering from the Actions tab
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # YOUR UPDATED BLOG RSS FEED URLs BELOW, comma-separated
+          feed_list: "https://dev.to/feed/marufsarker,https://maruf-sarker.hashnode.dev/rss.xml"
+          # Number of posts to display
+          max_post_count: "5"
+          # Path to your README.md file
+          readme_path: "README.md"
+          # GitHub token for pushing changes (usually auto-provided)
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          # Optional: Filter by categories/tags (useful if you want specific posts)
+          # categories: "tech,programming" 
+          # Optional: Date format
+          # date_format: "DD MMMYYYY"
+          # Optional: Use a custom template for each post entry (highly customizable)
+          # item_template: "<li><a href='{url}'>{title}</a> - {date}</li>"
