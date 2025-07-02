@@ -2,31 +2,27 @@ name: Latest Blog Posts
 
 on:
   schedule:
-    # Runs every 24 hours
+    # Runs every 24 hours at midnight UTC
     - cron: '0 0 * * *'
-  workflow_dispatch:
+  workflow_dispatch: # Allows manual triggering from the Actions tab
+
+permissions:
+  contents: write # Essential for the bot to write to your README.md
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update README with latest blog posts
     runs-on: ubuntu-latest
     
-    permissions:
-      contents: write
-
     steps:
-      - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - uses: actions/checkout@v4 # Checks out your repository code
+
+      - uses: gautamkrishnar/blog-post-workflow@v1 # The action that fetches and updates
         with:
-          feed_list: "https://dev.to/feed/marufsarker"
-          max_post_count: "5"
-          readme_path: "README.md"
-          gh_token: ${{ secrets.GITHUB_TOKEN }}
-          # CORRECTED LINE:
-          custom_tag: "BLOG-POSTS" # <--- Use 'custom_tag'
-          # Optional: Filter by categories/tags (useful if you want specific posts)
-          # categories: "tech,programming" 
-          # Optional: Date format
-          # date_format: "DD MMMYYYY"
-          # Optional: Use a custom template for each post entry (highly customizable)
-          # item_template: "<li><a href='{url}'>{title}</a> - {date}</li>"
+          feed_list: "https://dev.to/feed/marufsarker" # Your Dev.to RSS feed URL
+          max_post_count: "5" # How many latest posts to display
+          readme_path: "README.md" # The README file to update
+          gh_token: ${{ secrets.GITHUB_TOKEN }} # The special GitHub token (automatically provided)
+          custom_tag: "BLOG-POSTS" # Unique tag for this section in README.md
+          date_format: "DD MMMYYYY" # Date format for output
+          item_template: "<li><a href='{url}'>{title}</a> - {date}</li>" # Custom template for each post
