@@ -13,7 +13,10 @@
 ## 🎬 My Latest YouTube Videos
 
 <!-- BLOG-POST-LIST:START -->
-
+- [What&#39;s Really Powering Your Computer? Meet the Daemons](https://dev.to/marufsarker/whats-really-powering-your-computer-meet-the-daemons-6c5)
+- [Docker Buildx: Build Multi-Platform Images Like a Pro](https://dev.to/marufsarker/docker-buildx-build-multi-platform-images-like-a-pro-31hn)
+- [What Can In-Browser JavaScript Do and What Are Its Limitations?](https://dev.to/marufsarker/what-can-in-browser-javascript-do-and-what-are-its-limitations-106l)
+- [Job Interview Preperation As a Programmer](https://dev.to/marufsarker/job-interview-preperation-as-a-programmer-90k)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
