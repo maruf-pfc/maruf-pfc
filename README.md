@@ -8,16 +8,16 @@
 
 ## 🎬 My Latest YouTube Videos
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=cYkg3vHOObU"><img width="140px" src="http://img.youtube.com/vi/cYkg3vHOObU/maxresdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=cF3iekqR0U4"><img width="140px" src="http://img.youtube.com/vi/cF3iekqR0U4/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=cF3iekqR0U4">B. Bobritto Bandito | Codeforces Round 1017 &lpar;Div. 4&rpar; | Programming for Career</a><br/>Aug 3,YYYY</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=trdPNT2vPpk"><img width="140px" src="http://img.youtube.com/vi/trdPNT2vPpk/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=trdPNT2vPpk">A. Trippi Troppi | Codeforces Round 1017 &lpar;Div. 4&rpar; | Programming for Career #pfc</a><br/>Aug 3,YYYY</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=cYkg3vHOObU"><img width="140px" src="http://img.youtube.com/vi/cYkg3vHOObU/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cYkg3vHOObU">Build an AI Image Classifier using Django + CNN 🔥 | Digit, Vehicle, Animal &amp; Flower Recognition</a><br/>Jul 31,YYYY</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=IOp4b30nr64"><img width="140px" src="http://img.youtube.com/vi/IOp4b30nr64/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=IOp4b30nr64">A. False Alarm Solution | Codeforces Round 1029 | #pfc - Programming for Career</a><br/>Jun 8,YYYY</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=QZsvfSdbLmQ"><img width="140px" src="http://img.youtube.com/vi/QZsvfSdbLmQ/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QZsvfSdbLmQ">Programming for Career #programming #coding #development</a><br/>Mar 5,YYYY</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/gdI9jELFRcM"><img width="140px" src="http://img.youtube.com/vi/gdI9jELFRcM/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/gdI9jELFRcM">Ipad 10th gen Unboxing and First Impressions | Best tablet for 2025?#ipad #ipad10thgen #unboxing</a><br/>Jan 5,YYYY</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/5EDq6CbMcto"><img width="140px" src="http://img.youtube.com/vi/5EDq6CbMcto/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/5EDq6CbMcto">Baseus Stylus Pen Unboxing &amp; First Look | Budget-Friendly iPad Pencil Alternative</a><br/>Dec 25,YYYY</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
