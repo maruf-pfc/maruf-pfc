@@ -19,20 +19,10 @@ jobs:
 
       - uses: gautamkrishnar/blog-post-workflow@master # The action that fetches and updates
         with:
-          # Your YouTube RSS feed URL
-          # IMPORTANT: Make sure this is your actual YouTube channel's RSS feed URL.
-          # A common format is: https://www.youtube.com/feeds/videos.xml?channel_id=YOUR_CHANNEL_ID
-          # Please replace the URL below with your correct feed.
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCAne1jQhrjTOJ3s3yuAAtcQ" 
-          
-          # Custom tags to extract data from the YouTube feed
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
-          # Date format for the output
-          date_format: "mmm d,YYYY" 
-          # Custom HTML template for each video entry
+          date_format: "mmm d,yyyy" 
           template: >
             <table><tr><td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline
-          # The committer email for the automated commits
           committer_email: "mdmarufsarker.mms@gmail.com"
-          # UNIQUE TAG: This tells the action which specific placeholder comments to use
           custom_tag: "YOUTUBE-VIDEOS"
