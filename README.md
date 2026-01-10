@@ -3,125 +3,193 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Enthusiast;Competitive+Programmer;Developer+and+CP+Community+Manager;Content+Creator+for+Tech+Learners;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Framework+Agnostic+Software+Engineer;AI+%26+Backend+Engineering+Enthusiast;Competitive+Programmer;Tech+Content+Creator;&center=true&width=600&height=50">
+  </a>
 </p>
 
-## 🎬 My Latest YouTube Videos
+## 👨‍💻 About Me
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=cF3iekqR0U4"><img width="140px" src="http://img.youtube.com/vi/cF3iekqR0U4/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=cF3iekqR0U4">B. Bobritto Bandito | Codeforces Round 1017 &lpar;Div. 4&rpar; | Programming for Career</a><br/>Aug 3,2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=trdPNT2vPpk"><img width="140px" src="http://img.youtube.com/vi/trdPNT2vPpk/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=trdPNT2vPpk">A. Trippi Troppi | Codeforces Round 1017 &lpar;Div. 4&rpar; | Programming for Career #pfc</a><br/>Aug 3,2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=cYkg3vHOObU"><img width="140px" src="http://img.youtube.com/vi/cYkg3vHOObU/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=cYkg3vHOObU">Build an AI Image Classifier using Django + CNN 🔥 | Digit, Vehicle, Animal &amp; Flower Recognition</a><br/>Jul 31,2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=IOp4b30nr64"><img width="140px" src="http://img.youtube.com/vi/IOp4b30nr64/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=IOp4b30nr64">A. False Alarm Solution | Codeforces Round 1029 | #pfc - Programming for Career</a><br/>Jun 8,2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=QZsvfSdbLmQ"><img width="140px" src="http://img.youtube.com/vi/QZsvfSdbLmQ/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=QZsvfSdbLmQ">Programming for Career #programming #coding #development</a><br/>Mar 5,2025</td></tr></table>
-<!-- BLOG-POST-LIST:END -->
+A passionate framework-agnostic software engineer with expertise in full-stack development, AI engineering, and competitive programming. Currently focused on backend development and AI technologies including Generative AI, LLMs, and Agentic AI systems.
 
-<div align="center">
-  <h3>Languages and Tools:</h3>
-  <div>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-    <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-    <br>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-    <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <br>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-    <br>
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-    <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-    <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
-  </div>
-</div>
+- 🔭 Working as **Frontend Developer** at Softvence IT Ltd
+- 🌱 Learning **Backend Engineering** and **AI Engineering**
+- 🎯 Experienced **Community Manager** for development and competitive programming platforms
+- 📹 **Tech Content Creator** sharing knowledge through tutorials and videos
+- 💡 **1000+ Problems Solved** across competitive programming platforms
+- 📍 Based in **Dhaka, Bangladesh**
+
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+
+### Styling & UI
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+
+### AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=flat)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+**Core AI Skills:** Generative AI • LLMs • LangGraph • RAG • Agentic AI
+
+### Data Science & Analysis
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+### Deployment Platforms
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
+![Coolify](https://img.shields.io/badge/Coolify-6B46C1?style=flat&logo=coolify&logoColor=white)
+
+### Project Management & Productivity
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+## 🏆 Competitive Programming
 
 <div align="center">
   <table>
     <tr>
-      <td align="left">
-        <h3>🌠 Leetcode</h3>
-        <div align="center">
-          <img src="https://leetcode.card.workers.dev/mdmarufsarker?theme=auto&font=baloo&extension=null" alt="LeetCode Stats">
-        </div>
+      <td align="center">
+        <h3>🌠 LeetCode</h3>
+        <img src="https://leetcode.card.workers.dev/mdmarufsarker?theme=auto&font=baloo&extension=null" alt="LeetCode Stats">
       </td>
-      <td align="right">
+      <td align="center">
         <h3>🌌 Codeforces</h3>
-        <div align="center">
-          <img src="https://codeforces-readme-stats.vercel.app/api/card?username=maruf_sarker" alt="Codeforces Stats">
-        </div>
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=maruf_sarker" alt="Codeforces Stats">
       </td>
     </tr>
   </table>
 </div>
 
-<div align="center">
-  <p>
-    <a href="https://wakatime.com" target="_blank" rel="noreferrer"><img src="https://wakatime.com/share/@marufsarker/1044b713-2f17-4951-9d4a-2af9cf38e6f0.png" width="58%"/></a>
-    <a href="https://app.daily.dev/mdmarufsarker" target="_blank" rel="noreferrer"><img src="https://api.daily.dev/devcards/b6878efd97f14b6a9e21dce17627159f.png?r=82n" width="300" alt="Md. Maruf Sarker's Dev Card"/></a>
-  </p>
-</div>
-
 <p align="center">
-  <a href="https://holopin.io/@marufpfc" target="_blank" rel="noreferrer"><img src="https://holopin.me/marufpfc" alt="An image of @marufpfc's Holopin badges, which is a link to view their full Holopin profile"></a>
-</p>
-
-### 🌐 Connect with me ~
-
-<p align="center">
-  
-  [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mdmarufsarker)
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdmarufsarkerr)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/md_maruf_sarker)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdmarufsarker)
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/md_marufsarker)
-  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@maruf_sarker)
-  ![Youtube subscribe](https://img.shields.io:/youtube/channel/subscribers/UCLMsOaJDBSJWvny11DFfebw?style=social)
-  [![](https://visitcount.itsvg.in/api?id=mdmarufsarker&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  <a href="https://codeforces.com/profile/maruf_sarker"><img alt="Code Forces" src="https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white"><a/>
+  <a href="https://codeforces.com/profile/maruf_sarker"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white"></a>
   <a href="https://leetcode.com/mdmarufsarker/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
   <a href="https://www.codechef.com/users/mdmarufsarker"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"></a>
   <a href="https://www.hackerrank.com/mdmarufsarker"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-  <a href="https://www.hackerearth.com/@mdmarufsarker"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"></a>
 </p>
 
-<span>👀 Total Views</span>
-<p align="center"> 
-  
-  ![](https://count.getloli.com/get/@maruf-pfc.github.readme)
+## 🎬 Latest YouTube Videos
 
+<!-- BLOG-POST-LIST:START -->
+<table>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=cF3iekqR0U4"><img width="140px" src="http://img.youtube.com/vi/cF3iekqR0U4/maxresdefault.jpg"></a></td>
+    <td><a href="https://www.youtube.com/watch?v=cF3iekqR0U4">B. Bobritto Bandito | Codeforces Round 1017 (Div. 4) | Programming for Career</a><br/>Aug 3, 2025</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=trdPNT2vPpk"><img width="140px" src="http://img.youtube.com/vi/trdPNT2vPpk/maxresdefault.jpg"></a></td>
+    <td><a href="https://www.youtube.com/watch?v=trdPNT2vPpk">A. Trippi Troppi | Codeforces Round 1017 (Div. 4) | Programming for Career</a><br/>Aug 3, 2025</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=cYkg3vHOObU"><img width="140px" src="http://img.youtube.com/vi/cYkg3vHOObU/maxresdefault.jpg"></a></td>
+    <td><a href="https://www.youtube.com/watch?v=cYkg3vHOObU">Build an AI Image Classifier using Django + CNN 🔥 | Digit, Vehicle, Animal & Flower Recognition</a><br/>Jul 31, 2025</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=IOp4b30nr64"><img width="140px" src="http://img.youtube.com/vi/IOp4b30nr64/maxresdefault.jpg"></a></td>
+    <td><a href="https://www.youtube.com/watch?v=IOp4b30nr64">A. False Alarm Solution | Codeforces Round 1029 | #pfc - Programming for Career</a><br/>Jun 8, 2025</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=QZsvfSdbLmQ"><img width="140px" src="http://img.youtube.com/vi/QZsvfSdbLmQ/maxresdefault.jpg"></a></td>
+    <td><a href="https://www.youtube.com/watch?v=QZsvfSdbLmQ">Programming for Career #programming #coding #development</a><br/>Mar 5, 2025</td>
+  </tr>
+</table>
+<!-- BLOG-POST-LIST:END -->
+
+<p align="center">
+  <a href="https://youtube.com/yourchannel"><img src="https://img.shields.io/youtube/channel/subscribers/YOUR_CHANNEL_ID?style=social" alt="YouTube Subscribers"></a>
 </p>
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+_Blog posts will be dynamically updated here_
+<!-- BLOG-POST-LIST:END -->
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://youtube.com/yourchannel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://dev.to/yourprofile"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
+</p>
+
+## 💼 Open for Opportunities
+
+I'm available for freelance work and open to exciting projects in:
+- Full-Stack Development
+- Backend API Development
+- AI/ML Engineering & LLM Applications
+- Technical Content Creation
+- Community Management
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdmarufsarker&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="https://holopin.io/@marufpfc"><img src="https://holopin.me/marufpfc" alt="Holopin Badges"></a>
+</p>
+
+<p align="center">Made with ❤️ by Maruf Sarker © 2026</p>
