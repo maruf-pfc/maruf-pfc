@@ -141,14 +141,9 @@ A passionate framework-agnostic software engineer with expertise in full-stack d
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
-  <a href="https://youtube.com/yourchannel"><img src="https://img.shields.io/youtube/channel/subscribers/YOUR_CHANNEL_ID?style=social" alt="YouTube Subscribers"></a>
+  <a href="https://youtube.com/yourchannel"><img src="https://img.shields.io/youtube/channel/subscribers/UCAne1jQhrjTOJ3s3yuAAtcQ?style=social" alt="YouTube Subscribers"></a>
+  <a href="https://youtube.com/yourchannel"><img src="https://img.shields.io/youtube/channel/subscribers/UCLMsOaJDBSJWvny11DFfebw?style=social" alt="YouTube Subscribers"></a>
 </p>
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-_Blog posts will be dynamically updated here_
-<!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Connect With Me
 
@@ -172,7 +167,7 @@ I'm available for freelance work and open to exciting projects in:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdmarufsarker&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=maruf-pfc&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
