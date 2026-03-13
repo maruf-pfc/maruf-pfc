@@ -10,14 +10,17 @@
 
 ## 👨‍💻 About Me
 
-A passionate framework-agnostic software engineer with expertise in full-stack development, AI engineering, and competitive programming. Currently focused on backend development and AI technologies including Generative AI, LLMs, and Agentic AI systems.
+A passionate software engineer and competitive programmer with hands-on expertise in full-stack web development using React.js, Next.js, Node.js, and REST APIs. I've built and managed tech communities of 17,000+ members, organized 100+ coding contests, and solved 1,000+ competitive programming problems.
 
-- 🔭 Working as **Frontend Developer** at Softvence IT Ltd
-- 🌱 Learning **Backend Engineering** and **AI Engineering**
-- 🎯 Experienced **Community Manager** for development and competitive programming platforms
-- 📹 **Tech Content Creator** sharing knowledge through tutorials and videos
-- 💡 **1000+ Problems Solved** across competitive programming platforms
-- 📍 Based in **Dhaka, Bangladesh**
+Beyond coding, I create educational tech content and mentor developers because I believe building people is just as important as building products. Currently working as a freelance developer on global marketplaces while actively expanding into AI Engineering, Backend Development, and Automation.
+
+Currently grinding toward SWE roles at top BD tech companies - deep in the backend engineering rabbit hole.
+
+- 🔭 Working as a freelancer at `Upwork` & `Fiverr`.
+- 🌱 Exploring **Backend Engineering** and researching on LLM, VLM.
+- 🎯 Learning ASP.NET, System Design, Database in Depth.
+- 📹 Creating **Tech Contents** for my YouTube subscribers.
+- 📍 Actively looking for Software Engineering Jobs.
 
 ## 🛠️ Tech Stack
 
@@ -35,21 +38,15 @@ A passionate framework-agnostic software engineer with expertise in full-stack d
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white)
 
 ### Backend Development
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 ### AI & Machine Learning
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=flat)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
-**Core AI Skills:** Generative AI • LLMs • LangGraph • RAG • Agentic AI
+Generative AI • LLMs • LangGraph • RAG • Agentic AI
 
 ### Data Science & Analysis
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -66,14 +63,14 @@ A passionate framework-agnostic software engineer with expertise in full-stack d
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 ### DevOps & Tools
@@ -156,12 +153,10 @@ A passionate framework-agnostic software engineer with expertise in full-stack d
 
 ## 💼 Open for Opportunities
 
-I'm available for freelance work and open to exciting projects in:
-- Full-Stack Development
-- Backend API Development
-- AI/ML Engineering & LLM Applications
+I'm available for freelance work / Onsite Jobs and open to exciting projects in:
+- Software Engineer Trainee
+- Backend Developer
 - Technical Content Creation
-- Community Management
 
 ---
 
